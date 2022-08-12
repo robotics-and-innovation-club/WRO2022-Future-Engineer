@@ -5,3 +5,6 @@
 - Theekhathat  Wongsubsantati  Member
 - Theeraphat   Thongbai        Member
 - Nattavee     Sunitsakul      Member
+
+## Contents
+- ```team-photos``` contains 2 photos of the our team (an official photo and one funny photo with all of our team members)
