@@ -26,6 +26,6 @@ Darunsikkhalai School (Engineering-Science Classroom)
 - USB HD Camera (720p camera) 1 ea.
 - DC to DC step down converter (from 9VDC - 36VDC to 5VDC 3A) 1 ea.
 - Motor Driver Module (L298N) 1 ea.
-- Motor (12VDC) 1 ea.
+- DC Motor (12VDC) 1 ea.
 - Servo Motor (MG996R) 1 ea.
 Wired show in schematic diagrams in ```schemes``` directory.
