@@ -28,4 +28,4 @@ Darunsikkhalai School (Engineering-Science Classroom)
 - Motor Driver Module (L298N) 1 ea.
 - DC Motor (12VDC) 1 ea.
 - Servo Motor (MG996R) 1 ea.
-Wired show in schematic diagrams in ```schemes``` directory.
+How all electronic components are wired show in schematic diagrams in ```schemes``` directory.
