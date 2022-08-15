@@ -22,7 +22,7 @@ Darunsikkhalai School (Engineering-Science Classroom)
 - ```step down mount.STL``` The component that will be mounted to the electronic mounter base is this. This is used to insert a step-down DC to DC converter.
 
 ## Electronic
-- Raspberry Pi 4 Model B 1 ea. (OS : Raspberry Pi OS 64-bits)
+- Raspberry Pi 4 Model B (OS : Raspberry Pi OS 64-bits) 1 ea. 
 - Battery (18650 Lithium-ion battery) 3 ea.
 - USB HD Camera (720p camera) 1 ea.
 - DC to DC step down converter (from 9VDC - 36VDC to 5VDC 3A) 1 ea.
