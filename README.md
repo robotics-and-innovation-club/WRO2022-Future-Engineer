@@ -16,6 +16,9 @@ Darunsikkhalai School (Engineering-Science Classroom)
 
 ## Introduction 
 
+### How to use
+1. bring your Raspberry Pi 4 Model B, then [install Raspberry Pi OS](https://github.com/robotics-and-innovation-club/WRO2022-Future-Engineer#how-to-install-raspberry-pi-os)
+
 
 ## Software / Program
 All of our source code is in ```src``` directory
