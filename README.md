@@ -16,12 +16,21 @@ Darunsikkhalai School (Engineering-Science Classroom)
 
 ## Introduction 
 
+
 ## Software / Program
 All of our source code is in ```src``` directory
 
 Our software mainly use GPIOZERO and opencv libraries. With GPIOZERO we use this library control servo motor and motor. With opencv we use this library to do computer vision.
 
 ```Actuator.py``` we use hardware PWM of Raspberry Pi 4 Model B, so that we need to run ```sudo systemctl enable pigpiod``` to enable hardware PWM to work (every time Raspberry Pi boot it will start pigpiod services automatically)
+
+### How to install Raspberry Pi OS
+1. go to ```https://www.raspberrypi.com/software/``` website, then if you are Windows user click```Download for Windows```, if you are macOS user click```Download for macOS```, if you are Ubuntu use click```Download for Ubuntu for x86```, but if you are Raspberry Pi OS user, type ```sudo apt install rpi-imager``` in a Terminal window.
+2. Choose OS, In this car we use ```Raspberry Pi OS (64-bit)```
+3. Choose Storage (SD-CARD)
+4. (OPTIONAL) If you prefer to config any thing before install OS to storage, you can config it by click ```Advcance Option``` or the gear sign (on the bottom left of the window)
+5. Click ```Write```
+
 
 ## Models
 - ```base with nut hole.STL``` The STL file is the base component that will be used to attach the electronic mounter component to the vehicle base.
