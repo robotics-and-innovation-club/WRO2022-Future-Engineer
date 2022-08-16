@@ -59,6 +59,8 @@ Our software mainly use GPIOZERO and opencv libraries. With GPIOZERO we use this
 - Motor Driver Module (L298N) 1 ea.
 - DC Motor (12VDC) 1 ea.
 - Servo Motor (MG996R) 1 ea.
+- Ultrasonic sensor 1 ea.
+- Radar Distance sensor 1 ea.
 
 How all electronic components are wired show in schematic diagrams in ```schemes``` directory.
 In ```schemes``` directory, ```diagram_fritzing.png``` is the property diagram from Fritzing program and ```Easy Diagram.pdf``` is a easy diagram of our circuit.
