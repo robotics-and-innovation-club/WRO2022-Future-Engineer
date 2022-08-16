@@ -17,12 +17,9 @@ Darunsikkhalai School (Engineering-Science Classroom)
 ## Introduction 
 
 ## Software / Program
-    All of our source code is in ```src``` directory
+All of our source code is in ```src``` directory
 
-    Our software mainly use GPIOZERO and opencv libraries. With GPIOZERO we use this library control servo motor and motor. With opencv we use this library to do computer vision.
-    
-
-
+Our software mainly use GPIOZERO and opencv libraries. With GPIOZERO we use this library control servo motor and motor. With opencv we use this library to do computer vision.
 
 ## Models
 - ```base with nut hole.STL``` The STL file is the base component that will be used to attach the electronic mounter component to the vehicle base.
