@@ -21,6 +21,8 @@ All of our source code is in ```src``` directory
 
 Our software mainly use GPIOZERO and opencv libraries. With GPIOZERO we use this library control servo motor and motor. With opencv we use this library to do computer vision.
 
+```Actuator.py``` we use hardware PWM of Raspberry Pi 4 Model B, so that we need to run ```sudo systemctl enable pigpiod``` to enable hardware PWM to work (every time Raspberry Pi boot it will start pigpiod services automatically)
+
 ## Models
 - ```base with nut hole.STL``` The STL file is the base component that will be used to attach the electronic mounter component to the vehicle base.
 - ```step down mount.STL``` The component that will be mounted to the electronic mounter base is this. This is used to insert a step-down DC to DC converter.
