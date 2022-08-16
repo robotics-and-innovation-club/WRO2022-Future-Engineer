@@ -31,3 +31,4 @@ Darunsikkhalai School (Engineering-Science Classroom)
 - Servo Motor (MG996R) 1 ea.
 
 How all electronic components are wired show in schematic diagrams in ```schemes``` directory.
+In ```schemes``` directory, ```diagram_fritzing.png``` is the property diagram from Fritzing program.
