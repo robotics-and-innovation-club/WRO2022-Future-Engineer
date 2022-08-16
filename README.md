@@ -19,6 +19,8 @@ Darunsikkhalai School (Engineering-Science Classroom)
 ### How to use
 1. Prepare all electronic parts and machanic parts
 2. Bring your Raspberry Pi 4 Model B, then [install Raspberry Pi OS (64-bit)](https://github.com/robotics-and-innovation-club/WRO2022-Future-Engineer#how-to-install-raspberry-pi-os)
+3. Install all of required libraries 
+4. [Enable I2C]
 
 
 ## Software / Program
@@ -34,6 +36,15 @@ Our software mainly use GPIOZERO and opencv libraries. With GPIOZERO we use this
 3. Choose Storage (SD-CARD)
 4. (OPTIONAL) If you prefer to config any thing before install OS to storage, you can config it by click ```Advcance Option``` or the gear sign (on the bottom left of the window)
 5. Click ```Write```
+
+### How to enable I2C
+1. open terminal
+2. type ```sudo raspi-config```
+3. select ```Interfacing Options```
+4. select ```I2C```
+5. select ```<Yes>```
+6. select ```Ok```
+7. if it required you to reboot, select ```<Yes>```
 
 
 ## Models
