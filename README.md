@@ -20,7 +20,7 @@ Darunsikkhalai School (Engineering-Science Classroom)
 1. Prepare all electronic parts and machanic parts
 2. Bring your Raspberry Pi 4 Model B, then [install Raspberry Pi OS (64-bit)](https://github.com/robotics-and-innovation-club/WRO2022-Future-Engineer#how-to-install-raspberry-pi-os)
 3. Install all of required libraries 
-4. [Enable I2C]
+4. [Enable I2C](https://github.com/robotics-and-innovation-club/WRO2022-Future-Engineer/blob/main/README.md#how-to-enable-i2c)
 
 
 ## Software / Program
