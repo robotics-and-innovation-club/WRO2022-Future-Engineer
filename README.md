@@ -8,11 +8,12 @@ Darunsikkhalai School (Engineering-Science Classroom)
 - Nattavee     Sunitsakul      Member
 
 ## Contents
-- ```team-photos``` contains two images of our team (an official photo and one funny photo with all of our team members)
-- ```video``` contains a link to a video on YouTube that demonstrates how our vehicle operates.
 - ```models``` include 3D-printed replicas of our car's parts.
-- ```schemes``` contains all of our schematic diagram of the electromechanical parts that show all the parts (motors, electronics, and other electromechanical components) used in the vehicle and their connections.
 - ```src``` contain all of source code of our vehicle. (Python source code)
+- ```schemes``` contains all of our schematic diagram of the electromechanical parts that show all the parts (motors, electronics, and other electromechanical components) used in the vehicle and their connections.
+- ```team-photos``` contains two images of our team (an official photo and one funny photo with all of our team members)
+- ```vehicle-photos``` contains 6 photos of the vehicle (from every side, from top and bottom)
+- ```video``` contains a link to a video on YouTube that demonstrates how our vehicle operates.
 
 ## Introduction 
 How can we make the car go straight, We use computer vision to detect side environment. Then wew can approximate how far is teh car from the enviroment.   
