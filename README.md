@@ -31,7 +31,7 @@ Side environment
 6. Enable Hardware PWM, by run ```sudo systemctl enable pigpiod``` in terminal.
 7. git clone this github repository
 8. open terminal and run ```cd WRO2022-FUTURE-ENGINEER/src```
-9. run ```sudo python main.py```
+9. run ```sudo python main1.py``` or ```sudo python main2.py```
 
 
 ## Software / Program
