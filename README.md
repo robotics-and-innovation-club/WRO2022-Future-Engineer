@@ -15,7 +15,7 @@ Darunsikkhalai School (Engineering-Science Classroom)
 - ```src``` contain all of source code of our vehicle. (Python source code)
 
 ## Introduction 
-
+How can we make the car go straight, We use computer vision to detect side environment. Then wew can approximate how far is teh car from the enviroment.   
 
 ### How to use
 1. Prepare all electronic parts and machanic parts
