@@ -16,11 +16,13 @@ Darunsikkhalai School (Engineering-Science Classroom)
 
 ## Introduction 
 
+
 ### How to use
 1. Prepare all electronic parts and machanic parts
 2. Bring your Raspberry Pi 4 Model B, then [install Raspberry Pi OS (64-bit)](https://github.com/robotics-and-innovation-club/WRO2022-Future-Engineer#how-to-install-raspberry-pi-os)
-3. Install all of required libraries 
+3. Install all of required libraries (GPIOZERO, openCV, adafruit-circuitpython-vl53l0x)
 4. [Enable I2C](https://github.com/robotics-and-innovation-club/WRO2022-Future-Engineer/blob/main/README.md#how-to-enable-i2c)
+5. Enable Hardware PWM, by run ```sudo systemctl enable pigpiod``` in terminal.
 
 
 ## Software / Program
