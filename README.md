@@ -16,6 +16,8 @@ Darunsikkhalai School (Engineering-Science Classroom)
 - ```video``` contains a link to a video on YouTube that demonstrates how our vehicle operates.
 
 ## Introduction 
+How can we control electronic with pi, We use GPIOZERO library to control GPIO pin of Raspberry Pi Model B, so that we can control motor and servo. Thanks to Hardware PWM of Raspberry Pi 4 Model B, It help our servo motor canturn in supper accurate angle as well as this hep us to control teh speed of motor very accurate as well
+
 How can we make the car go straight, We use computer vision to detect side environment. Then wew can approximate how far is teh car from the enviroment. 
 
 We use HSV colour space then we find a range of colour in the feild that we will met on the competition. we need to config the upper and lowwer of color such as Orange, Blue, Black, White
@@ -43,7 +45,7 @@ Then, we use the computer vission to detect line and count how many round do cou
 
 
 ## Software / Program
-All of our source code is in ```src``` directory
+All of our source code is in ```src``` directory. All of it is a Python source code. 
 
 Our software mainly use GPIOZERO and opencv libraries. With GPIOZERO we use this library control servo motor and motor. With opencv we use this library to do computer vision.
 
