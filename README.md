@@ -18,6 +18,10 @@ Darunsikkhalai School (Engineering-Science Classroom)
 ## Introduction 
 How can we make the car go straight, We use computer vision to detect side environment. Then wew can approximate how far is teh car from the enviroment. 
 
+We use HSV colour space then we find a range of colour in the feild that we will met on the competition. we need to config the upper and lowwer of color such as Orange, Blue, Black, White
+
+Side environment 
+
 ### How to use
 1. Prepare all electronic parts and machanic parts
 2. Bring your Raspberry Pi 4 Model B, then [install Raspberry Pi OS (64-bit)](https://github.com/robotics-and-innovation-club/WRO2022-Future-Engineer#how-to-install-raspberry-pi-os)
