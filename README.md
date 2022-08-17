@@ -20,7 +20,15 @@ How can we make the car go straight, We use computer vision to detect side envir
 
 We use HSV colour space then we find a range of colour in the feild that we will met on the competition. we need to config the upper and lowwer of color such as Orange, Blue, Black, White
 
-Side environment 
+Side environment we use our upper and lower HSV of black wall that we find the filter black pixel that in upper and lower range. after that we will filter blue line out of this frame so that it have more accuracy of detcting black pixel of colour
+
+On floor we use the same method to detect Blue and Orange line, we use upper and lower of Orange and Blue color that we found, then detct if the area is more than one constance value that we research to filter the error detection. 
+
+We also use computer vision to detect with turn do we wnat when the car init. This method help our can can go in clock wise and counter clock wise direction. with out strugle in any direction
+
+Next, We use data that our computer vision detected before to make a decision to turn left or right how many degree. or go straight with some speed. we also use data from our 2 distance sensor to help making decision more accurate, on when to turn hard when to stop.
+
+Then, we use the computer vission to detect line and count how many round do counting round that pass by, so that we can control how many round that we want the car to drive automaticaly.
 
 ### How to use
 1. Prepare all electronic parts and machanic parts
