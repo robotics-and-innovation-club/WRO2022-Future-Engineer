@@ -1,5 +1,5 @@
 # Teams from the Robotics and Innovation Club (RIC)
-Darunsikkhalai School (Engineering-Science Classroom)
+Darunsikkhalai School (Engineering-Science Classroom & KOSEN KMUTT)
 
 ## Our Teams
 - Kitsada      Doungjitjaroen  Supervisor / Assistance
